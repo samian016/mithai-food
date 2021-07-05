@@ -18,13 +18,7 @@ h1{
    padding-left: 8%;
 }
 
-.link-btn{
-    text-decoration: none;
-    color: white;
-    border-radius: 50px;
-    padding: 15px 40px;
-    background-image:repeating-linear-gradient(#ff471a, #ff6600) ;
-}
+
 .btn-style{
     color: white;
     text-decoration: none;
