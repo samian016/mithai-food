@@ -1,30 +1,51 @@
 body {
   font-family: "Poppins", sans-serif;
-  color: #454545;
   background-image: repeating-linear-gradient(#f8b7ea, #f8b7ea);
+  color: #454545;
+
   margin-top: 5%;
 }
-h1{
-    font-size: 50px;
+h1 {
+  font-size: 50px;
 }
-.brand-name{
-    color: #660033;
+p {
+  font-size: 20px;
 }
-.flex-part{
+.brand-name {
+  color: #660033;
+}
+.brand-color h1 {
+  color: #ffaa00;
+}
+.flex-part {
+  display: flex;
+  margin-bottom: 150px;
+}
+
+.flex-part2 {
     display: flex;
+    margin-bottom: 150px;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
     
-}
-.half-width{
-    width: 50%;
-   padding-left: 8%;
+    background-size: 100% 100%;
+  }
+
+.half-width {
+  width: 40%;
+  padding-left: 5%;
+  padding-right: 5%;
 }
 
+.btn-style {
+  color: white;
+  text-decoration: none;
+  padding: 10px 40px;
+  border-radius: 50px;
+  font-weight: 700;
+  background-image: repeating-linear-gradient(#ff471a, #ff6600);
+}
 
-.btn-style{
-    color: white;
-    text-decoration: none;
-    padding: 10px 40px;
-    border-radius: 50px;
-    font-weight: 700;
-    background-image:repeating-linear-gradient(#ff471a, #ff6600) ;
+#about-pic {
+  width: 80%;
 }
