@@ -75,3 +75,8 @@ p {
     border-radius: 10px;
     
 }
+.flex-part-2{
+    display: flex;
+  margin-bottom: 150px;
+  
+}
