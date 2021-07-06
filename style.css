@@ -8,6 +8,9 @@ body {
 h1 {
   font-size: 50px;
 }
+h2{
+    font-size:  35px;
+}
 p {
   font-size: 20px;
 }
@@ -16,6 +19,9 @@ p {
 }
 .brand-color h1 {
   color: #ffaa00;
+}
+.brand-color h2{
+    color: rgb(6, 172, 0);
 }
 .flex-part {
   display: flex;
@@ -48,4 +54,10 @@ p {
 
 #about-pic {
   width: 80%;
+}
+#recipies-1{
+    text-align: center;
+    padding-right: 30%;
+    padding-left: 30%;
+    
 }
