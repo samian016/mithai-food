@@ -28,9 +28,7 @@ p {
   margin-bottom: 150px;
 }
 
-.flex-part2 {
-    display: flex;
-    margin-bottom: 150px;
+.backgrnd {
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
     
