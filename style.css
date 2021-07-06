@@ -1,11 +1,13 @@
+
 body {
   font-family: "Poppins", sans-serif;
-  background-image: repeating-linear-gradient(#ffbb56, #ff9900);
+  background-image: repeating-linear-gradient(#ffbb56, #8dc29f);
   color: #454545;
   margin-top: 5%;
-  margin-bottom: 0;
+  margin-bottom: 0mm;
   margin-left: 0mm;
   margin-right: 0mm;
+  padding: 0mm;
 
   
 }
@@ -22,7 +24,7 @@ p {
   color: #660033;
 }
 .brand-color h1 {
-  color: #ffaa00;
+  color: #ff6600;
 }
 .brand-color h2{
     color: rgb(6, 172, 0);
@@ -111,8 +113,8 @@ footer h1{
     font-size: 39px;
 }
 footer p{
-    margin-top: 0mm;
+    margin:0mm;
 }
 #mithai-tm{
-    
+    color:rgb(253, 152, 0);
 }
