@@ -78,5 +78,22 @@ p {
 .flex-part-2{
     display: flex;
   margin-bottom: 150px;
-  
+  box-shadow: 10px 10px 50px black;
+  border-radius: 5px;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.subs-control{
+    width: 30%;
+    margin-right: 2%;
+    margin-left: 2%;
+    padding-left: 10%;
+}
+.subs-control h1{
+    margin: 0px;
+}
+.subs-control p{
+    margin: 0px;
 }
