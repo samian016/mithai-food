@@ -1,6 +1,6 @@
 body {
   font-family: "Poppins", sans-serif;
-  background-image: repeating-linear-gradient(#f8b7ea, #f8b7ea);
+  background-image: repeating-linear-gradient(#ffbb56, #ff9900);
   color: #454545;
 
   margin-top: 5%;
@@ -12,7 +12,7 @@ h2{
     font-size:  35px;
 }
 p {
-  font-size: 20px;
+  font-size: 18px;
 }
 .brand-name {
   color: #660033;
@@ -57,5 +57,21 @@ p {
     text-align: center;
     padding-right: 30%;
     padding-left: 30%;
+    
+}
+.one-t-width{
+    width: 30%;
+    margin-right: 2%;
+    margin-left: 2%;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 50px black;
+    
+}
+.one-t-width img{
+    width: 100%;
+    border-radius: 10px;
     
 }
