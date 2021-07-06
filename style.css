@@ -2,8 +2,12 @@ body {
   font-family: "Poppins", sans-serif;
   background-image: repeating-linear-gradient(#ffbb56, #ff9900);
   color: #454545;
-
   margin-top: 5%;
+  margin-bottom: 0;
+  margin-left: 0mm;
+  margin-right: 0mm;
+
+  
 }
 h1 {
   font-size: 50px;
@@ -96,4 +100,19 @@ p {
 }
 .subs-control p{
     margin: 0px;
+}
+footer{
+    
+    background-color: black;
+    text-align: center;
+}
+footer h1{
+    margin: 0mm;
+    font-size: 39px;
+}
+footer p{
+    margin-top: 0mm;
+}
+#mithai-tm{
+    
 }
